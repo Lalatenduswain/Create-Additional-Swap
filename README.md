@@ -31,4 +31,3 @@ If you find this script helpful, consider showing your appreciation by [buying m
 This script is provided as-is and may require modifications or updates based on your specific environment and requirements. Use it at your own risk. The authors of the script are not liable for any damages or issues caused by its usage.
 
 Feel free to modify the README as needed to provide additional context, usage instructions, or any other relevant information.
-```
