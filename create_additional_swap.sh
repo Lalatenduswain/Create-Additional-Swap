@@ -2,7 +2,7 @@
 
 # Set the swap file path and size
 SWAPFILE_PATH="/swapfile2"
-SWAPFILE_SIZE="1G"  # Adjust the size as needed
+SWAPFILE_SIZE="4G"  # Adjust the size as needed
 
 # Create the swap file
 sudo fallocate -l $SWAPFILE_SIZE $SWAPFILE_PATH
